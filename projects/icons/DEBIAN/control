@@ -1,0 +1,9 @@
+Architecture: iphoneos-arm
+Author: zChees3
+Depiction: https://github.com/zChees3/zChees3.github.io
+Description: Adds Icon Images
+Maintainer: zChees3 <zChees3@420blaze.it>
+Name: icons
+Package: com.zChees3.icons
+Section: Tweaks
+Version: 1.0

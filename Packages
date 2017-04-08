@@ -1,0 +1,15 @@
+Package: com.zChees3.icons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: zChees3 <zChees3@420blaze.it>
+Filename: ./debs/com.zchees3.icons_1.0_iphoneos-arm.deb
+Size: 1272
+MD5sum: 4425411df41d748d6d58689796db8567
+SHA1: 6ff66510476e3e44fc5de6b911515a7fafaac9cd
+SHA256: 6782a4a6e185eca2ffb48ca444bda6da32ca1ed7e64870bf5a3a0d931201e5dc
+Section: Tweaks
+Description: Adds Icon Images
+Author: zChees3
+Depiction: https://github.com/zChees3/zChees3.github.io
+Name: icons
+

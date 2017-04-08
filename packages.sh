@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-deb -bZgzip projects/com.zchees3.controlcentermutebutton debs
+dpkg-deb -bZgzip projects/icons debs
